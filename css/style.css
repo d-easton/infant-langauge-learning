@@ -107,3 +107,8 @@ body {
     background: transparent;
     border: 0px;
 }
+
+#video-content{
+    margin-bottom: 2em;
+    margin-left: 8em;
+}

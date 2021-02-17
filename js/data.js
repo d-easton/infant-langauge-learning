@@ -20,7 +20,7 @@ const topicTwo = {
 
 const topicThree = {
     title: "Helping Your Baby",
-    subtitle_one: "They've Got This Handled",
+    subtitle_one: "They've Got This Covered",
     subtitle_two: "The Personal Touch",
     subtitle_three: "Bilingual Babies",
     paragraph_one: "Babies are very capable of learning a language with little assistance. Lessons and coaching are unneccesary; give them ample data and their mental linguistic engines will get a fully developed language up and running in no time! For babies with language impairments or developmental disorders, this process may take longer or require interventive aid. Thankfully, continuing research in language acquisition is leading to insights that will likely improve treatment options.",
