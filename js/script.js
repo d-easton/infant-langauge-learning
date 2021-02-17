@@ -21,6 +21,7 @@ const toggleTopic = (id) => {
         $("#subtitle-three").show();
         $("#paragraph-three").show();
         $("#video-content").hide();
+        $("#image-content").hide();
     }
     else if ( (id) == "topicTwo" ) { 
         $("#content-title").html(topicTwo.title);
@@ -35,6 +36,7 @@ const toggleTopic = (id) => {
         
         $("#content-card-three").show();
         $("#video-content").show();
+        $("#image-content").show();
     }
     else if ( (id) == "topicThree" ) { 
         $("#content-title").html(topicThree.title);
@@ -49,6 +51,7 @@ const toggleTopic = (id) => {
         
         $("#content-card-three").show();
         $("#video-content").hide();
+        $("#image-content").hide();
     }
     else if ( (id) == "topicFour" ) { 
         $("#content-title").html(topicFour.title);
@@ -60,6 +63,7 @@ const toggleTopic = (id) => {
             
         $("#content-card-three").hide();
         $("#video-content").hide();
+        $("#image-content").hide();
     }
     else {
         alert("We're sorry, something went wrong. Please try again later.")
